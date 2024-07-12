@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tebzaaa
-- 👀 I’m interested in Tech and Philosophy
-- 🌱 I’m currently learning System Adminstration.
+- 👀 I’m interested in Tech and Dance
+- 🌱 I’m currently learning System Adminstration and Web Development
 - 💞️ I’m looking to collaborate on a startup to democratize access to opportunities.
 - 📫 How to reach me tebohosnteso@gmail.com
 
